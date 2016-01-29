@@ -424,7 +424,7 @@ footer .footer-below {
 
 .portfolio-modal .modal-content h2 {
     margin: 0;
-    font-size: 3em;
+    font-size: 2.3em;
 }
 
 .portfolio-modal .modal-content img {
@@ -473,4 +473,10 @@ footer .footer-below {
 .portfolio-modal .modal-backdrop {
     display: none;
     opacity: 0;
+}
+
+@media(min-width:768px) {
+    .portfolio-modal .modal-content h2 {
+        font-size: 3em;
+    }
 }
