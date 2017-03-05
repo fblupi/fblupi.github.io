@@ -224,7 +224,7 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #2d3539;
+    color: #ccc;
 }
 
 @media(max-width:767px) {
