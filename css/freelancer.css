@@ -497,3 +497,7 @@ footer .footer-below {
         font-size: 3em;
     }
 }
+
+.language-icon {
+  height: 20px;
+}
