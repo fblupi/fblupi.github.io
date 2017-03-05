@@ -170,6 +170,23 @@ header .intro-text .skills {
     font-weight: 700;
 }
 
+.navbar-brand {
+    padding-top: 9.5px;
+    padding-bottom: 9.5px;
+}
+
+.navbar-brand img {
+    height: 42px;
+    float: left;
+}
+
+.navbar-brand div {
+    padding-left: 16px;
+    padding-top: 10px;
+    font-size: 20px;
+    float: left;
+}
+
 .navbar a:focus {
     outline: 0;
 }
